@@ -14,5 +14,13 @@ Repository holding the notes to Spring Framework Course
 1. [Spring Boot Overview](03-spring-boot-intro/01-spring-boot-overview.md)
 2. [Spring Boot Setup](03-spring-boot-intro/02-spring-boot-setup.md)
 
+### Spring Boot Config
+1. [Configuration](04-spring-boot-config/01-configuration.md)
+2. [Profiles](04-spring-boot-config/02-profiles.md)
+
+### Spring Boot MVC
+1. [MVC Application](05-spring-boot-mvc/01-mvc-app.md)
+2. [Understanding MVC](05-spring-boot-mvc/02-mvc.md)
+
 ----
 &copy; 2024
